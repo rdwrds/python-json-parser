@@ -29,4 +29,6 @@ for root, dirs, files in os.walk(path):
         abilities = {}
         index = 0
 
-print(champs)
+total = open("finishedchamps.json","w")
+total.write(json.dumps(champs))
+print("wrote to " , total)
