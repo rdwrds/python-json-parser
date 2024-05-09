@@ -1,0 +1,362 @@
+{
+  "Domination": {
+    "id": 8100,
+    "name": "Domination",
+    "icon": "perk-images/Styles/7200_Domination.png",
+    "keystones": {
+      "Electrocute": {
+        "id": 8112,
+        "key": "Electrocute",
+        "icon": "perk-images/Styles/Domination/Electrocute/Electrocute.png"
+      },
+      "Predator": {
+        "id": 8124,
+        "key": "Predator",
+        "icon": "perk-images/Styles/Domination/Predator/Predator.png"
+      },
+      "Dark Harvest": {
+        "id": 8128,
+        "key": "DarkHarvest",
+        "icon": "perk-images/Styles/Domination/DarkHarvest/DarkHarvest.png"
+      },
+      "Hail of Blades": {
+        "id": 9923,
+        "key": "HailOfBlades",
+        "icon": "perk-images/Styles/Domination/HailOfBlades/HailOfBlades.png"
+      }
+    },
+    "perks": {
+      "Cheap Shot": {
+        "id": 8126,
+        "key": "CheapShot",
+        "icon": "perk-images/Styles/Domination/CheapShot/CheapShot.png"
+      },
+      "Taste of Blood": {
+        "id": 8139,
+        "key": "TasteOfBlood",
+        "icon": "perk-images/Styles/Domination/TasteOfBlood/GreenTerror_TasteOfBlood.png"
+      },
+      "Sudden Impact": {
+        "id": 8143,
+        "key": "SuddenImpact",
+        "icon": "perk-images/Styles/Domination/SuddenImpact/SuddenImpact.png"
+      },
+      "Zombie Ward": {
+        "id": 8136,
+        "key": "ZombieWard",
+        "icon": "perk-images/Styles/Domination/ZombieWard/ZombieWard.png"
+      },
+      "Ghost Poro": {
+        "id": 8120,
+        "key": "GhostPoro",
+        "icon": "perk-images/Styles/Domination/GhostPoro/GhostPoro.png"
+      },
+      "Eyeball Collection": {
+        "id": 8138,
+        "key": "EyeballCollection",
+        "icon": "perk-images/Styles/Domination/EyeballCollection/EyeballCollection.png"
+      },
+      "Ravenous Hunter": {
+        "id": 8135,
+        "key": "RavenousHunter",
+        "icon": "perk-images/Styles/Domination/RavenousHunter/RavenousHunter.png"
+      },
+      "Ingenious Hunter": {
+        "id": 8134,
+        "key": "IngeniousHunter",
+        "icon": "perk-images/Styles/Domination/IngeniousHunter/IngeniousHunter.png"
+      },
+      "Relentless Hunter": {
+        "id": 8105,
+        "key": "RelentlessHunter",
+        "icon": "perk-images/Styles/Domination/RelentlessHunter/RelentlessHunter.png"
+      },
+      "Ultimate Hunter": {
+        "id": 8106,
+        "key": "UltimateHunter",
+        "icon": "perk-images/Styles/Domination/UltimateHunter/UltimateHunter.png"
+      }
+    }
+  },
+  "Inspiration": {
+    "id": 8300,
+    "name": "Inspiration",
+    "icon": "perk-images/Styles/7203_Whimsy.png",
+    "keystones": {
+      "Glacial Augment": {
+        "id": 8351,
+        "key": "GlacialAugment",
+        "icon": "perk-images/Styles/Inspiration/GlacialAugment/GlacialAugment.png"
+      },
+      "Unsealed Spellbook": {
+        "id": 8360,
+        "key": "UnsealedSpellbook",
+        "icon": "perk-images/Styles/Inspiration/UnsealedSpellbook/UnsealedSpellbook.png"
+      },
+      "Prototype: Omnistone": {
+        "id": 8358,
+        "key": "MasterKey",
+        "icon": "perk-images/Styles/Inspiration/MasterKey/MasterKey.png"
+      }
+    },
+    "perks": {
+      "Hextech Flashtraption": {
+        "id": 8306,
+        "key": "HextechFlashtraption",
+        "icon": "perk-images/Styles/Inspiration/HextechFlashtraption/HextechFlashtraption.png"
+      },
+      "Magical Footwear": {
+        "id": 8304,
+        "key": "MagicalFootwear",
+        "icon": "perk-images/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png"
+      },
+      "Perfect Timing": {
+        "id": 8313,
+        "key": "PerfectTiming",
+        "icon": "perk-images/Styles/Inspiration/PerfectTiming/PerfectTiming.png"
+      },
+      "Future's Market": {
+        "id": 8321,
+        "key": "FuturesMarket",
+        "icon": "perk-images/Styles/Inspiration/FuturesMarket/FuturesMarket.png"
+      },
+      "Minion Dematerializer": {
+        "id": 8316,
+        "key": "MinionDematerializer",
+        "icon": "perk-images/Styles/Inspiration/MinionDematerializer/MinionDematerializer.png"
+      },
+      "Biscuit Delivery": {
+        "id": 8345,
+        "key": "BiscuitDelivery",
+        "icon": "perk-images/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png"
+      },
+      "Cosmic Insight": {
+        "id": 8347,
+        "key": "CosmicInsight",
+        "icon": "perk-images/Styles/Inspiration/CosmicInsight/CosmicInsight.png"
+      },
+      "Approach Velocity": {
+        "id": 8410,
+        "key": "ApproachVelocity",
+        "icon": "perk-images/Styles/Resolve/ApproachVelocity/ApproachVelocity.png"
+      },
+      "Time Warp Tonic": {
+        "id": 8352,
+        "key": "TimeWarpTonic",
+        "icon": "perk-images/Styles/Inspiration/TimeWarpTonic/TimeWarpTonic.png"
+      }
+    }
+  },
+  "Precision": {
+    "id": 8000,
+    "name": "Precision",
+    "icon": "perk-images/Styles/7201_Precision.png",
+    "keystones": {
+      "Press the Attack": {
+        "id": 8005,
+        "key": "PressTheAttack",
+        "icon": "perk-images/Styles/Precision/PressTheAttack/PressTheAttack.png"
+      },
+      "Lethal Tempo": {
+        "id": 8008,
+        "key": "LethalTempo",
+        "icon": "perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
+      },
+      "Fleet Footwork": {
+        "id": 8021,
+        "key": "FleetFootwork",
+        "icon": "perk-images/Styles/Precision/FleetFootwork/FleetFootwork.png"
+      },
+      "Conqueror": {
+        "id": 8010,
+        "key": "Conqueror",
+        "icon": "perk-images/Styles/Precision/Conqueror/Conqueror.png"
+      }
+    },
+    "perks": {
+      "Overheal": {
+        "id": 9101,
+        "key": "Overheal",
+        "icon": "perk-images/Styles/Precision/Overheal.png"
+      },
+      "Triumph": {
+        "id": 9111,
+        "key": "Triumph",
+        "icon": "perk-images/Styles/Precision/Triumph.png"
+      },
+      "Presence of Mind": {
+        "id": 8009,
+        "key": "PresenceOfMind",
+        "icon": "perk-images/Styles/Precision/PresenceOfMind/PresenceOfMind.png"
+      },
+      "Legend: Alacrity": {
+        "id": 9104,
+        "key": "LegendAlacrity",
+        "icon": "perk-images/Styles/Precision/LegendAlacrity/LegendAlacrity.png"
+      },
+      "Legend: Tenacity": {
+        "id": 9105,
+        "key": "LegendTenacity",
+        "icon": "perk-images/Styles/Precision/LegendTenacity/LegendTenacity.png"
+      },
+      "Legend: Bloodline": {
+        "id": 9103,
+        "key": "LegendBloodline",
+        "icon": "perk-images/Styles/Precision/LegendBloodline/LegendBloodline.png"
+      },
+      "Coup de Grace": {
+        "id": 8014,
+        "key": "CoupDeGrace",
+        "icon": "perk-images/Styles/Precision/CoupDeGrace/CoupDeGrace.png"
+      },
+      "Cut Down": {
+        "id": 8017,
+        "key": "CutDown",
+        "icon": "perk-images/Styles/Precision/CutDown/CutDown.png"
+      },
+      "Last Stand": {
+        "id": 8299,
+        "key": "LastStand",
+        "icon": "perk-images/Styles/Sorcery/LastStand/LastStand.png"
+      }
+    }
+  },
+  "Resolve": {
+    "id": 8400,
+    "name": "Resolve",
+    "icon": "perk-images/Styles/7204_Resolve.png",
+    "keystones": {
+      "Grasp of the Undying": {
+        "id": 8437,
+        "key": "GraspOfTheUndying",
+        "icon": "perk-images/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png"
+      },
+      "Aftershock": {
+        "id": 8439,
+        "key": "Aftershock",
+        "icon": "perk-images/Styles/Resolve/VeteranAftershock/VeteranAftershock.png"
+      },
+      "Guardian": {
+        "id": 8465,
+        "key": "Guardian",
+        "icon": "perk-images/Styles/Resolve/Guardian/Guardian.png"
+      }
+    },
+    "perks": {
+      "Demolish": {
+        "id": 8446,
+        "key": "Demolish",
+        "icon": "perk-images/Styles/Resolve/Demolish/Demolish.png"
+      },
+      "Font of Life": {
+        "id": 8463,
+        "key": "FontOfLife",
+        "icon": "perk-images/Styles/Resolve/FontOfLife/FontOfLife.png"
+      },
+      "Shield Bash": {
+        "id": 8401,
+        "key": "ShieldBash",
+        "icon": "perk-images/Styles/Resolve/MirrorShell/MirrorShell.png"
+      },
+      "Conditioning": {
+        "id": 8429,
+        "key": "Conditioning",
+        "icon": "perk-images/Styles/Resolve/Conditioning/Conditioning.png"
+      },
+      "Second Wind": {
+        "id": 8444,
+        "key": "SecondWind",
+        "icon": "perk-images/Styles/Resolve/SecondWind/SecondWind.png"
+      },
+      "Bone Plating": {
+        "id": 8473,
+        "key": "BonePlating",
+        "icon": "perk-images/Styles/Resolve/BonePlating/BonePlating.png"
+      },
+      "Overgrowth": {
+        "id": 8451,
+        "key": "Overgrowth",
+        "icon": "perk-images/Styles/Resolve/Overgrowth/Overgrowth.png"
+      },
+      "Revitalize": {
+        "id": 8453,
+        "key": "Revitalize",
+        "icon": "perk-images/Styles/Resolve/Revitalize/Revitalize.png"
+      },
+      "Unflinching": {
+        "id": 8242,
+        "key": "Unflinching",
+        "icon": "perk-images/Styles/Sorcery/Unflinching/Unflinching.png"
+      }
+    }
+  },
+  "Sorcery": {
+    "id": 8200,
+    "name": "Sorcery",
+    "icon": "perk-images/Styles/7202_Sorcery.png",
+    "keystones": {
+      "Summon Aery": {
+        "id": 8214,
+        "key": "SummonAery",
+        "icon": "perk-images/Styles/Sorcery/SummonAery/SummonAery.png"
+      },
+      "Arcane Comet": {
+        "id": 8229,
+        "key": "ArcaneComet",
+        "icon": "perk-images/Styles/Sorcery/ArcaneComet/ArcaneComet.png"
+      },
+      "Phase Rush": {
+        "id": 8230,
+        "key": "PhaseRush",
+        "icon": "perk-images/Styles/Sorcery/PhaseRush/PhaseRush.png"
+      }
+    },
+    "perks": {
+      "Nullifying Orb": {
+        "id": 8224,
+        "key": "NullifyingOrb",
+        "icon": "perk-images/Styles/Sorcery/NullifyingOrb/Pokeshield.png"
+      },
+      "Manaflow Band": {
+        "id": 8226,
+        "key": "ManaflowBand",
+        "icon": "perk-images/Styles/Sorcery/ManaflowBand/ManaflowBand.png"
+      },
+      "Nimbus Cloak": {
+        "id": 8275,
+        "key": "NimbusCloak",
+        "icon": "perk-images/Styles/Sorcery/NimbusCloak/6361.png"
+      },
+      "Transcendence": {
+        "id": 8210,
+        "key": "Transcendence",
+        "icon": "perk-images/Styles/Sorcery/Transcendence/Transcendence.png"
+      },
+      "Celerity": {
+        "id": 8234,
+        "key": "Celerity",
+        "icon": "perk-images/Styles/Sorcery/Celerity/CelerityTemp.png"
+      },
+      "Absolute Focus": {
+        "id": 8233,
+        "key": "AbsoluteFocus",
+        "icon": "perk-images/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png"
+      },
+      "Scorch": {
+        "id": 8237,
+        "key": "Scorch",
+        "icon": "perk-images/Styles/Sorcery/Scorch/Scorch.png"
+      },
+      "Waterwalking": {
+        "id": 8232,
+        "key": "Waterwalking",
+        "icon": "perk-images/Styles/Sorcery/Waterwalking/Waterwalking.png"
+      },
+      "Gathering Storm": {
+        "id": 8236,
+        "key": "GatheringStorm",
+        "icon": "perk-images/Styles/Sorcery/GatheringStorm/GatheringStorm.png"
+      }
+    }
+  }
+}
